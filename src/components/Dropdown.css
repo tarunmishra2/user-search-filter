@@ -1,0 +1,24 @@
+.dropdown {
+    margin-left: -5rem;
+    margin-top: 2rem;
+}
+
+.dd-item {
+    padding: 8px;
+    border: none;
+    background-color: rgba(252, 22, 22, 0.349);
+    margin-inline: 15px;
+}
+
+.reset {
+    padding: 9px;
+    border: none;
+    background-color: yellow;
+    cursor: pointer;
+    font-weight: 600;
+    margin-left: 1rem;
+}
+
+.reset:hover {
+    opacity: 0.6;
+}
